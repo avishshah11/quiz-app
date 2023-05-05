@@ -1,0 +1,37 @@
+[
+  {
+    "title": "What is the scientific name of a butterfly?",
+    "options": ["Apis", "Coleoptera", "Formicidae", "Rhopalocera"],
+    "correctOptionsIndex": 3
+  },
+  {
+    "title": "How hot is the surface of the sun?",
+    "options": ["1,233 K", "5,778 K", "12,130 K", "101,300 K"],
+    "correctOptionsIndex": 1
+  },
+  {
+    "title": "Who are the actors in The Internship?",
+    "options": [
+      "Ben Stiller, Jonah Hill",
+      "Courteney Cox, Matt LeBlanc",
+      "Kaley Cuoco, Jim Parsons",
+      "Vince Vaughn, Owen Wilson"
+    ],
+    "correctOptionsIndex": 3
+  },
+  {
+    "title": "What is the capital of Spain?",
+    "options": ["Berlin", "Buenos Aires", "Madrid", "San Juan"],
+    "correctOptionsIndex": 2
+  },
+  {
+    "title": "What are the school colors of the University of Texas at Austin?",
+    "options": [
+      "Black, Red",
+      "Blue, Orange",
+      "White, Burnt Orange",
+      "White, Old gold, Gold"
+    ],
+    "correctOptionsIndex": 2
+  }
+]
